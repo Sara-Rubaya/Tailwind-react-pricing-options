@@ -19,7 +19,7 @@ function App() {
         <Navbar></Navbar>
         {/* <DaisyNav></DaisyNav> */}
       </header>
-      <main>
+      <main className='p-8'>
         <Suspense fallback={<span className="loading loading-spinner loading-lg"></span>}>
           <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
         </Suspense>
