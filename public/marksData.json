@@ -1,0 +1,124 @@
+[
+    {
+      "rollNo": 1,
+      "name": "Aarav Mehta",
+      "marks": {
+         "English": 87 ,
+         "Math": 93 ,
+         "Math": 93 ,
+        "Science": 90 ,
+         "Computer": 85 
+      },
+      "total": 355,
+      "average": 88.75
+    },
+    {
+      "rollNo": 2,
+      "name": "Bella Roy",
+      "marks": {
+         "English": 78 ,
+         "Math": 85 ,
+         "Science": 80 ,
+         "Computer": 82 
+      },
+      "total": 325,
+      "average": 81.25
+    },
+    {
+      "rollNo": 3,
+      "name": "Carlos D'Souza",
+      "marks": {
+         "English": 92 ,
+         "Math": 89 ,
+         "Science": 94 ,
+         "Computer": 90 
+      },
+      "total": 365,
+      "average": 91.25
+    },
+    {
+      "rollNo": 4,
+      "name": "Diya Sharma",
+      "marks": {
+         "English": 70 ,
+         "Math": 75 ,
+         "Science": 72 ,
+         "Computer": 68 
+      },
+      "total": 285,
+      "average": 71.25
+    },
+    {
+      "rollNo": 5,
+      "name": "Ethan Patel",
+      "marks": {
+         "English": 88 ,
+         "Math": 90 ,
+         "Science": 85 ,
+         "Computer": 87 
+      },
+      "total": 350,
+      "average": 87.5
+    },
+    {
+      "rollNo": 6,
+      "name": "Fatima Khan",
+      "marks": {
+         "English": 80 ,
+         "Math": 83 ,
+         "Science": 79 ,
+         "Computer": 81 
+      },
+      "total": 323,
+      "average": 80.75
+    },
+    {
+      "rollNo": 7,
+      "name": "George Mathew",
+      "marks": {
+         "English": 76 ,
+         "Math": 79 ,
+         "Science": 75 ,
+         "Computer": 78 
+      },
+      "total": 308,
+      "average": 77.0
+    },
+    {
+      "rollNo": 8,
+      "name": "Hannah Williams",
+      "marks": {
+         "English": 91 ,
+         "Math": 95 ,
+         "Science": 92 ,
+         "Computer": 94 
+      },
+      "total": 372,
+      "average": 93.0
+    },
+    {
+      "rollNo": 9,
+      "name": "Ibrahim Ali",
+      "marks": {
+         "English": 68 ,
+         "Math": 72 ,
+         "Science": 70 ,
+         "Computer": 65 
+      },
+      "total": 275,
+      "average": 68.75
+    },
+    {
+      "rollNo": 10,
+      "name": "Julia Fernandes",
+      "marks": {
+         "English": 84 ,
+         "Math": 88 ,
+         "Science": 86 ,
+         "Computer": 89 
+      },
+      "total": 347,
+      "average": 86.75
+    }
+  ]
+  
